@@ -94,7 +94,7 @@ The `skill/SKILL.md` file contains a Claude skill for ContractHub. Install it in
 ContractHub/
 ├── ContractHub_template.xlsm   ← template with dummy data
 ├── docs/
-│   └── Kurzanleitung.docx      ← user guide (German)
+│   └── ContractHub_QuickStartGuide.docx      ← user guide
 └── skill/
     └── SKILL.md                ← Claude AI skill
 ```
